@@ -23,4 +23,20 @@ solutions for leet-codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/rohithv005/Leet-code/tree/main/1884-egg-drop-with-2-eggs-and-n-floors/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/rohithv005/Leet-code/tree/main/2106-maximum-fruits-harvested-after-at-most-k-steps/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/rohithv005/Leet-code/tree/main/2106-maximum-fruits-harvested-after-at-most-k-steps/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/rohithv005/Leet-code/tree/main/2106-maximum-fruits-harvested-after-at-most-k-steps/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/rohithv005/Leet-code/tree/main/2106-maximum-fruits-harvested-after-at-most-k-steps/) | Hard |
 <!---LeetCode Topics End-->
